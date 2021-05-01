@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <characters>
     <jist>
         <name> jist </name>
@@ -47,8 +46,9 @@
             </feet>
         </equipment>
         <inventory>
+
                 <item>
-                    life_potion
+                    vigor_potion
                 </item>
                 <item>
                     key
