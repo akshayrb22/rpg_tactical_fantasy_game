@@ -4,20 +4,20 @@
     <height>14</height>
     <placementArea>
         <position>
-            <x>1</x>
-            <y>9</y>
-        </position>
-        <position>
-            <x>1</x>
-            <y>10</y>
+            <x>2</x>
+            <y>7</y>
         </position>
         <position>
             <x>2</x>
-            <y>9</y>
+            <y>8</y>
         </position>
         <position>
-            <x>2</x>
-            <y>10</y>
+            <x>3</x>
+            <y>7</y>
+        </position>
+        <position>
+            <x>3</x>
+            <y>8</y>
         </position>
     </placementArea>
     <events>
@@ -25,22 +25,22 @@
             <new_player>
                 <name>doran</name>
                 <position>
-                    <x>1</x>
-                    <y>9</y>
+                    <x>2</x>
+                    <y>7</y>
                 </position>
             </new_player>
             <new_player>
                 <name>chrisemon</name>
                 <position>
-                    <x>1</x>
-                    <y>10</y>
+                    <x>2</x>
+                    <y>8</y>
                 </position>
             </new_player>
             <new_player>
                 <name>thokdrum</name>
                 <position>
-                    <x>2</x>
-                    <y>9</y>
+                    <x>3</x>
+                    <y>7</y>
                 </position>
             </new_player>
         </before_init>
@@ -49,28 +49,28 @@
         <foe>
             <name>lich_boss</name>
             <position>
-                <x>3</x>
-                <y>5</y>
+                <x>6</x>
+                <y>8</y>
             </position>
             <level>1</level>
         </foe>
     </foes>
     <obstacles>
         <position>
-            <x>1</x>
-            <y>9</y>
-        </position>
-        <position>
-            <x>1</x>
-            <y>10</y>
+            <x>2</x>
+            <y>7</y>
         </position>
         <position>
             <x>2</x>
-            <y>9</y>
+            <y>8</y>
         </position>
         <position>
-            <x>2</x>
-            <y>10</y>
+            <x>3</x>
+            <y>7</y>
+        </position>
+        <position>
+            <x>3</x>
+            <y>8</y>
         </position>
     </obstacles>
     <missions>
