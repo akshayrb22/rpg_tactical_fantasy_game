@@ -1,7 +1,7 @@
 import random as rd
 from enum import Enum, auto
 
-from lxml import etree
+#from lxml import etree
 
 from src.game_entities.gold import Gold
 from src.game_entities.movable import Movable
